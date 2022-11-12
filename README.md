@@ -37,5 +37,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/francisco-cruz-227a02217/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20Francisco%20Cruz-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:franaraujosilva2017@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-franaraujosilva2017@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:franaraujosilva2017@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-franaraujosilva2017@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/francisco-cruz-227a02217/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ui_cisco-ff69b4?style=flat-square&logo=instagram"></a>
+
 </p>
