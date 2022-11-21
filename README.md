@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/francisco-cruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francisco-cruz&show_icons=true&include_all_commits=true&count_private=true&layout=default&bg_color=161D3310&title_color=FA4450&text_color=fff&icon_color=887589"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francisco-cruz&show_icons=true&include_all_commits=true&count_private=true&layout=default&bg_color=161D33&title_color=FA4450&text_color=fff&icon_color=887589"/>
  </div>
 
  <h3>💻 &nbsp;About Me</h3>
